@@ -1,8 +1,5 @@
 ## Hi there,I'm Guneet 👋
 
-<!--
-**guneetm/guneetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ** Computer Science Student** at unversity of leicester 
 Passionate about software development,AI and creating cool projects
 
@@ -11,5 +8,6 @@ Passionate about software development,AI and creating cool projects
 - Build a professional online presence  
 
 
-
+<!--
+**guneetm/guneetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
