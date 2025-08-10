@@ -1,11 +1,11 @@
-## Hi there,I'm Guneet 👋
+## Hi,I'm Guneet 👋
 
--Computer Science Student at unversity of leicester 
--Passionate about software development,AI and creating cool projects
+Computer Science Student passionate about software development,AI and creating cool projects
 
 ## Goals for this protfolio
-- Practice Git and web development skills  
-- Build a professional online presence  
+- Practice Git and web development skills
+- Build a website
+
 
 
 <!--
