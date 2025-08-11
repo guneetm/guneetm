@@ -3,8 +3,10 @@
 Computer Science Student passionate about software development,AI and creating cool projects
 
 ## Goals for this protfolio
-- Practice Git and web development skills
-- Build a website
+-Create a study tracker
+-Create a project that predict if a user will like a movie
+-Create a script that organises files into foldes based on type/date
+
 
 
 
