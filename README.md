@@ -3,9 +3,9 @@
 Computer Science Student passionate about software development,AI and creating cool projects
 
 ## Goals for this protfolio
--Create a study tracker
--Create a project that predict if a user will like a movie
--Create a script that organises files into foldes based on type/date
+- [] Create a study tracker
+- [] Create a project that predict if a user will like a movie
+- [] Create a script that organises files into foldes based on type/date
 
 
 
